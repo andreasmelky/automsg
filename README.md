@@ -1,0 +1,2 @@
+# automsg
+growtopia auto msg
